@@ -1,2 +1,2 @@
 # Model-Reference-Adaptive-Control-with-an-H-inf-compensator
-Model Reference Adaptive Control with an H∞ compensator to improve transient performance; includes F-16 short-period.
+This repo reproduces a modified **Model Reference Adaptive Control (MRAC)** scheme where a dynamic compensator **uc = F(s)e₁** is designed via **H∞ optimal control** to reduce transient oscillations caused by parameter-estimation error—all while keeping the MRAC’s asymptotic stability. See **References folder** for the full theory and example.  
